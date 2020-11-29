@@ -50,4 +50,4 @@ In this repository, in the root level, you can find the pdf version of the thesi
 
 
 ## Collaborators
-* **[Alessandro Paticchio](https://github.com/alessandropaticchio)**
+* **[Tommaso Scarlatti](https://github.com/tmscarla)**
